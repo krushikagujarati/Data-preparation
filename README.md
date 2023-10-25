@@ -3,6 +3,26 @@
 
 **1. Tabular diverse dataset**
 
+The primary objective is to conduct a comprehensive analysis and model building on a provided HR dataset. The specific goals and tasks include:
+
+1. Exploratory Data Analysis (EDA):
+* Data Loading: Load the provided dataset and understand its basic structure, including the number of rows, columns, and data types.
+* Data Cleaning: Identify and handle any missing values, outliers, or anomalies in the dataset.
+* Statistical Summary: Provide a descriptive statistical summary of the dataset to understand the central tendency, dispersion, and shape of the distribution of the dataset.
+* Visualization: Create visualizations to identify patterns, relationships, and outliers in the data.
+* Initial Insights: Draw initial insights and observations that could be valuable for further analysis or modeling.
+2. Data Preprocessing and Feature Engineering:
+* Encoding and Scaling: Apply necessary transformations such as encoding categorical variables and scaling numerical variables.
+* Feature Engineering: Create new features that could enhance the model’s performance.
+* Clustering and Anomaly Detection: Implement clustering to understand the inherent groupings within the data and identify any anomalies.
+* Data Imputation: Establish and apply a strategy for handling any missing values within the dataset.
+* Feature Selection: Evaluate the importance of different features and select the most relevant features for the modeling process.
+3. Model Building and Evaluation using AutoML:
+* AutoML Introduction: Provide an introduction and guide on how to use AutoML tools such as H2O’s AutoML for model building.
+* Model Training: Train various machine learning models on the preprocessed dataset.
+* Model Evaluation: Evaluate the performance of different models using appropriate metrics.
+* Model Interpretation: Interpret the results and understand the significance and impact of different features on the model’s predictions.
+
 Medium article : Leveraging ChatGPT for EDA and AutoML on an HR Dataset
 <a target="_blank" href="https://medium.com/@krushika.gujarati/leveraging-chatgpt-for-eda-and-automl-on-an-hr-dataset-40635bcbbb4a"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZQ5OPyBu0gT_BIzYp3dTNw.png" alt="Medium Article"><br>
 https://medium.com/@krushika.gujarati/leveraging-chatgpt-for-eda-and-automl-on-an-hr-dataset-40635bcbbb4a</a>
@@ -36,6 +56,25 @@ Medium article : Unveiling Weather Patterns: EDA and AutoML on a Five-Year Weath
 https://medium.com/@krushika.gujarati/unveiling-weather-patterns-eda-and-automl-on-a-five-year-weather-dataset-7589b269b219</a>
 
 **3. Spatio temporal**
+
+Objective:
+
+1. Understanding the Dataset:
+* Data Loading and Inspection: Load the dataset into a Pandas DataFrame and perform an initial inspection to understand its structure and contents.
+* Handling Missing Values: Identify and address any missing values in the dataset.
+2. Exploratory Data Analysis (EDA):
+* Data Cleaning: Ensure the data is clean and ready for analysis.
+* Feature Engineering: Extract and create relevant features from the dataset to enrich the analysis.
+* Statistical Analysis: Generate and interpret descriptive statistics to summarize the dataset’s main characteristics.
+* Data Visualization: Create various plots and visualizations to uncover patterns, relationships, and insights from the data.
+* Anomaly Detection: Utilize the Isolation Forest algorithm to detect and visualize anomalies in the dataset.
+3. Data Preparation for Modeling:
+* Data Transformation: Convert categorical variables and ensure all data is in the correct format for modeling.
+* Feature Selection: Select the most relevant features for the modeling task.
+* Data Splitting: Split the dataset into training and testing sets to prepare for model building.
+4. Automated Machine Learning (AutoML):
+* Model Selection and Training: Use AutoML tools to automate the process of selecting and training various machine learning models.
+* Model Evaluation: Evaluate the performance of the models using appropriate metrics to understand their accuracy and effectiveness.
 
 Medium article : Harnessing the Power of ChatGPT-4 for EDA and AutoML on Chickenpox Dataset
 <a target="_blank" href="https://medium.com/@krushika.gujarati/harnessing-the-power-of-chatgpt-4-for-eda-and-automl-on-chickenpox-dataset-964002c4af9c"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Cw1-dYqZXjSxF0DDOvE6sw.png" alt="Medium Article"><br>
