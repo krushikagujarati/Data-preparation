@@ -24,8 +24,8 @@ The primary objective is to conduct a comprehensive analysis and model building 
 * Model Interpretation: Interpret the results and understand the significance and impact of different features on the model’s predictions.
 
 Medium article : Leveraging ChatGPT for EDA and AutoML on an HR Dataset
-<a target="_blank" href="https://medium.com/@krushika.gujarati/leveraging-chatgpt-for-eda-and-automl-on-an-hr-dataset-40635bcbbb4a"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZQ5OPyBu0gT_BIzYp3dTNw.png" alt="Medium Article"><br>
-https://medium.com/@krushika.gujarati/leveraging-chatgpt-for-eda-and-automl-on-an-hr-dataset-40635bcbbb4a</a>
+<a target="_blank" href="https://medium.com/womenintechnology/leveraging-chatgpt-for-eda-and-automl-on-an-hr-dataset-40635bcbbb4a"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZQ5OPyBu0gT_BIzYp3dTNw.png" alt="Medium Article"><br>
+https://medium.com/womenintechnology/leveraging-chatgpt-for-eda-and-automl-on-an-hr-dataset-40635bcbbb4a</a>
 
 **2. Timeseries**
 
